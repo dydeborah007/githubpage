@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+#background{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+    background-image: url(https://image.shutterstock.com/image-photo/top-view-healthy-organic-food-260nw-1722082195.jpg);
+}
+.image{
+    height: 300px;
+}
+#content{
+    padding-top: 80px;
+    width:250px;
+}
+.cont{
+    margin-left: auto;
+    margin-right: auto;
+}
+.center{
+    padding-bottom: 10px;
+}
+h1{
+    color: rgb(196, 125, 33);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sp{
+    font-size: 50px;
+    font-family:initial;
+    color:rgba(201, 24, 236, 0.76);
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 3px blue ;
+}
+.order{
+    font-size: 20px;
+    text-shadow: 2px -3px 2px rgba(17, 161, 36, 0.671);
+    letter-spacing: 2px ;
+}
+hr{
+    color: lawngreen;
+
+}
+h3{
+    color: rgb(199, 45, 45);
+    text-shadow:  3px -3px 2px;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+#pic{
+    width: 250px;
+    height: 150px;
+    float: left;
+    border-radius: 2px;
+}
+.authenticity{
+   font-style: oblique;
+    color: rgb(52, 82, 23);
+    background-color: rgba(223, 175, 72, 0.568);
+    padding-bottom: 5px;
+}
+#change, .lunch, #din{
+    width: 200px;
+    height: 100px;
+    border-radius: 2px;
+    float: right;
+}
+#two{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    font-weight: unset;
+}
+.t{
+    padding: 10px;
+    color: rgba(187, 16, 16, 0.966);
+}
+h5{
+    letter-spacing: 2px;
+    font-style: italic;
+    color:blue;
+}
+p{
+    font-style: italic;
+    color: rgb(52, 82, 23);
+    font-weight: unset;
+    font-size: 20px ;
+}
+#number{
+   width: 100px;
+}
+.b{
+    float: right;
+    margin-right: 10px;
+}
+button{
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+}
+#picc{
+    width: 30px;
+    height: 30px;
+}
+#piic{
+    width: 30px;
+    height: 30px;
+}
+#color{
+    background-color: rgba(27, 12, 10, 0.301);
+    padding:3px;
+    padding-bottom: 30px;
+}
+#whattodo {
+    background-color: rgba(27, 12, 10, 0.301);
+    border-radius: 2px;
+   padding-left: 3px;
+   padding-bottom: 2px;
+    
+}
